@@ -8,7 +8,7 @@ O objetivo é tornar a escuta de audiobooks algo agradável e acessível. É uma
 
 Espero que vocês gostem e aproveitem tanto quanto eu gostei de desenvolver! 👏🚀
 
-
+<h4>O projeto ainda está em desenvolvimento, portanto, pode apresentar alguns bugs e funcionalidades incompletas. Estamos constantemente trabalhando para aprimorar a experiência, corrigir erros e adicionar novos recursos. Agradecemos sua paciência e feedback enquanto continuamos a melhorar o projeto.</h4>
 
 <h4>Desenvolvido nas Linguagens:</h4>
 <ul>
